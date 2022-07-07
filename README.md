@@ -2,6 +2,8 @@
 
 Implement the classic game of [Rock, Paper, Scissors](https://en.wikipedia.org/wiki/Rock%E2%80%93paper%E2%80%93scissors) on the Ethereum blockchain!
 
+It cannot be guessed what has been sent by the other player!
+
 ## Usage
 
 ### Pre Requisites
